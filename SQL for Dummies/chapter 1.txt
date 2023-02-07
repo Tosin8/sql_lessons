@@ -1,0 +1,11 @@
+RELATIONAL DB FUNDAMENTAL
+What is database? - a collections of integrated records ( a record is a representation of some physical or conceptual object).A database consists of both DATA and METADATA ( it describes the data's structure within a database). 
+* Data dictionary - db storing metadata in an area, which describes the tables, columns, indexes, constraints and other items that make up the db. 
+
+What is DBMS? - its a set of program used to define, administer and process dbs and their associated applications. ( A DBMS is the tool used to build that structure and operate on the data contained within the database). 
+Scalabe - it's a dbms that runs on platforms of multiple classes, large and small. 
+
+Flat Files - They are collection of data records, one after the another, in a specified format (a list). 
+* Using a db instead of a flat file systems removes the duplication of effort. 
+
+DB Models 
