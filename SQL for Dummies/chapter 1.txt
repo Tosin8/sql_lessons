@@ -9,3 +9,10 @@ Flat Files - They are collection of data records, one after the another, in a sp
 * Using a db instead of a flat file systems removes the duplication of effort. 
 
 DB Models 
+ - Relational Model : Relational have almost completely replaced earlier database types, because it can change the structure of a relational database without having to change or modify applications that were based on the old structures. 
+
+ Components of a relational db
+  - Relational db gain their flexibility because their data resides in tables that are largely independent of each other. Add, Delete, or change data in a table without affecting the data in the other tables , provided that the affected table is not a parent of any of the other tables. 
+
+  Dealing with relations
+   - A relationi db is made up of one/more relations. A relaiotn is a 2D array of rows and columns, containing single valued entries and no duplicate rows. 
