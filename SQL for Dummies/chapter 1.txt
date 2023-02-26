@@ -1,3 +1,5 @@
+Source: Sql for dummies 
+
 RELATIONAL DB FUNDAMENTAL
 What is database? - a collections of integrated records ( a record is a representation of some physical or conceptual object).A database consists of both DATA and METADATA ( it describes the data's structure within a database). 
 * Data dictionary - db storing metadata in an area, which describes the tables, columns, indexes, constraints and other items that make up the db. 
@@ -15,4 +17,8 @@ DB Models
   - Relational db gain their flexibility because their data resides in tables that are largely independent of each other. Add, Delete, or change data in a table without affecting the data in the other tables , provided that the affected table is not a parent of any of the other tables. 
 
   Dealing with relations
-   - A relationi db is made up of one/more relations. A relaiotn is a 2D array of rows and columns, containing single valued entries and no duplicate rows. 
+   - A relationi db is made up of one/more relations. A relaiotn is a 2D array of rows and columns, containing single valued entries and no duplicate rows. Each cell in the array can have only one value and no two rows may be identical. 
+   - Each row in the table also called a RECORD, or a TUPLE haods the data for a single user. 
+
+   SCHEMAS, DOMAINS AND constraints
+   A db's SCHEMAS provides an overall organization to the tables. The DOMAIN of a table column tells what values it may store in the column. CONSTRAINTS can be applied to a db table to prevent anyne from storing invalid data in the table. 
