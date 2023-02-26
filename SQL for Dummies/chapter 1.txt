@@ -22,3 +22,5 @@ DB Models
 
    SCHEMAS, DOMAINS AND constraints
    A db's SCHEMAS provides an overall organization to the tables. The DOMAIN of a table column tells what values it may store in the column. CONSTRAINTS can be applied to a db table to prevent anyne from storing invalid data in the table. 
+
+Chapter 2 - SQL FUNDAMENTALs 
