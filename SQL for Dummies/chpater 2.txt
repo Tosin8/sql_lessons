@@ -1,3 +1,5 @@
 Chapter 2 - SQL FUNDAMENTALs 
 
-Note : SQL isn't a procedural language, by simplying telling what you want instead of telling the system how to get it. 
+Note : 
+* SQL isn't a procedural language, by simplying telling what you want instead of telling the system how to get it. 
+* A query is a question you ask the database, if any of the data in the database satisfies the conditions of the query, SQL retrieves that data. 
