@@ -6,3 +6,6 @@ Note :
 
 SQL statements: 
 The command language consists of a limited number of statements, performing three functions of data handling which are: Definging data, Manipulate data and Control data. 
+
+SQL statements: 
+* ADD, * ALTER , * DROP, * INSERT, * MERGE, * CREATE etc
