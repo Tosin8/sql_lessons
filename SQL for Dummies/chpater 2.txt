@@ -9,3 +9,6 @@ The command language consists of a limited number of statements, performing thre
 
 SQL statements: 
 * ADD, * ALTER , * DROP, * INSERT, * MERGE, * CREATE etc
+
+Data Types: Prefined types - numeric, binary, strings, booleans etc
+Exact Numerics: data types categories - integer, smallint, bigint, numeric, decimal, decfloat.
