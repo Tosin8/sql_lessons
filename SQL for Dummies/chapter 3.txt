@@ -6,4 +6,5 @@ The Components of SQL
 
 DATA DEFINITION LANGUAGE
 __________________________________________
-
+Basic elements include tables, views, schemas, clusters etc.  
+Tables and schemas are two elements of a relational database's  containment hierarchy (+ tables contain columns and rows + schmas contains table and views + catalogs contains schmas ). 
