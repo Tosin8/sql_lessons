@@ -1,1 +1,2 @@
 
+The Components of SQL 
