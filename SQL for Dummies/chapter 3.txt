@@ -1,2 +1,9 @@
 
 The Components of SQL 
+* Data Definition Language (DDL): the part of SQL needed to create a database, modify its structure and destroy it when no longer need it. 
+* Data Manipulation Language (DML):the part of SQL that performs database maintainance,specifying what beingi done with the database - enter, change,remove or retrieve it. 
+* Data Control Language(DCL): the part of SQL that protects database from becoming corrupted. 
+
+DATA DEFINITION LANGUAGE
+__________________________________________
+
