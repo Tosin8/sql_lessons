@@ -8,3 +8,11 @@ DATA DEFINITION LANGUAGE
 __________________________________________
 Basic elements include tables, views, schemas, clusters etc.  
 Tables and schemas are two elements of a relational database's  containment hierarchy (+ tables contain columns and rows + schmas contains table and views + catalogs contains schmas ). 
+
+PROCEDURES WHEN PLANNING DATABASE
+________________________________________
+* Identify all tables
+* Define the columns that each table must contain
+* Give each table a primary key that you can guaranteee is unique
+* Making sure that every table in the database has at least one column in common with one other table in the database. 
+* Put each table in third normal form to ensure the prevention of insertion, deletion and update anomalies. 
